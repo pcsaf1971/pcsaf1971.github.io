@@ -7,7 +7,7 @@ ADR;TYPE=WORK:Zimmerstraße 56
 10117 Berlin
 TITLE:Embaixadora de Portugal / Botschafterin von Portugal
 TEL;TYPE=CELL:
-TEL;TYPE=WORK:Tel.+49(0)30-590063810
+TEL;TYPE=WORK:004930590063810
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:madalena.fischer@mne.pt
@@ -16,5 +16,5 @@ URL:https://berlim.embaixadaportugal.mne.gov.pt/pt/
 URL;TYPE=Website:https://berlim.embaixadaportugal.mne.gov.pt/pt/
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100854848
+UID:EnBizCard-100010576
 END:VCARD
